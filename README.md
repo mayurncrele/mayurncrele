@@ -1,6 +1,12 @@
-## Hi there 👋
-
 <!-- Profile README for @mayurncrele -->
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="Hello 👋" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;Welcome+to+my+profile&center=true&size=30&width=500">
+  </a>
+</h1>
+
+![](https://komarev.com/ghpvc/?username=mayurncrele&color=brightgreen)
 
 <h1 align="center">Hi, I'm Mayur Rele</h1>
 <p align="center">
@@ -34,7 +40,7 @@ I build secure, automated, cloud-native platforms and AI-driven security analyti
 
 ### Activity & Stats
 <!-- Auto-updated by a private workflow pushing this SVG -->
-![Profile metrics](./github-metrics.svg?v=12)
+![Profile metrics](./github-metrics.svg?v=13)
 
 ---
 
