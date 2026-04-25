@@ -40,7 +40,7 @@ I build secure, automated, cloud-native platforms and AI-driven security analyti
 
 ### Activity & Stats
 <!-- Auto-updated by a private workflow pushing this SVG -->
-![Profile metrics](./github-metrics.svg?v=13)
+![Profile metrics](./github-metrics.svg?v=16)
 
 ---
 
