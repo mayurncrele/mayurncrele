@@ -1,19 +1,24 @@
 <!-- Profile README for @mayurncrele -->
 
-<!-- Banner: animated gradient header, switches palette by GitHub theme -->
+<!-- Banner: gradient header, brighter palette in dark mode so it pops on #0d1117 -->
 <a href="https://github.com/mayurncrele">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=200&section=header&text=Mayur%20Rele&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:c4b5fd&height=200&section=header&text=Mayur%20Rele&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Mayur Rele banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:c4b5fd&height=200&section=header&text=Mayur%20Rele&fontSize=58&fontColor=ffffff&fontAlignY=38&_v=2" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1e3a8a&height=200&section=header&text=Mayur%20Rele&fontSize=58&fontColor=ffffff&fontAlignY=38&_v=2" alt="Mayur Rele banner" />
   </picture>
 </a>
 
 <!-- Typing tagline -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=C0A6FF&center=true&vCenter=true&width=720&lines=Senior+Director%2C+IT+%26+Information+Security+%40+Parachute+Health;AI%2FML+Researcher+%E2%80%A2+IEEE+Senior+Member+%E2%80%A2+Author;Building+secure%2C+cloud-native%2C+AI-driven+platforms" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=5B21B6&center=true&vCenter=true&width=720&lines=Senior+Director%2C+IT+%26+Information+Security+%40+Parachute+Health;AI%2FML+Researcher+%E2%80%A2+IEEE+Senior+Member+%E2%80%A2+Author;Building+secure%2C+cloud-native%2C+AI-driven+platforms" alt="Tagline" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=C0A6FF&center=true&vCenter=true&width=900&lines=Senior+Director%2C+IT+%26+Information+Security+%40+Parachute+Health;AI%2FML+Researcher+%E2%80%A2+IEEE+Senior+Member+%E2%80%A2+Author;Building+secure%2C+cloud-native%2C+AI-driven+platforms" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=5B21B6&center=true&vCenter=true&width=900&lines=Senior+Director%2C+IT+%26+Information+Security+%40+Parachute+Health;AI%2FML+Researcher+%E2%80%A2+IEEE+Senior+Member+%E2%80%A2+Author;Building+secure%2C+cloud-native%2C+AI-driven+platforms" alt="Tagline" />
   </picture>
+</p>
+
+<!-- AI-Powered Automation Builder hero — custom cyberpunk-style SVG -->
+<p align="center">
+  <img src="assets/ai-builder-banner.svg" alt="AI-Powered Automation Builder" width="100%" />
 </p>
 
 <p align="center">
@@ -90,7 +95,7 @@ advising:    [Nightfall AI, EC-Council]
   <img src="./github-metrics.svg?v=20" alt="Profile metrics — auto-updated daily, includes private/org repo activity" />
 </p>
 
-> _The image above is regenerated daily by a private workflow
+> _The image above is regenerated daily by a private workflow with an authorized token, so it includes private and org repo activity._
 
 ---
 
@@ -108,6 +113,6 @@ advising:    [Nightfall AI, EC-Council]
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1e3a8a&height=80&section=footer" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:6d28d9&height=80&section=footer" alt="footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:8b5cf6&height=80&section=footer&_v=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=80&section=footer&_v=2" alt="footer" />
 </picture>
