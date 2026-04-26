@@ -1,12 +1,11 @@
 <!-- Profile README for @mayurncrele -->
 
-<!-- Banner: gradient header, brighter palette in dark mode so it pops on #0d1117 -->
-<a href="https://github.com/mayurncrele">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:c4b5fd&height=200&section=header&text=Mayur%20Rele&fontSize=58&fontColor=ffffff&fontAlignY=38&_v=2" />
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1e3a8a&height=200&section=header&text=Mayur%20Rele&fontSize=58&fontColor=ffffff&fontAlignY=38&_v=2" alt="Mayur Rele banner" />
-  </picture>
-</a>
+<!-- Hero banner: custom static SVG (capsule-render's animated wave gets stripped by GitHub's camo proxy) -->
+<p align="center">
+  <a href="https://github.com/mayurncrele">
+    <img src="assets/hero-banner.svg" alt="Mayur Rele — Senior Director, IT & Information Security at Parachute Health" width="100%" />
+  </a>
+</p>
 
 <!-- Typing tagline -->
 <p align="center">
@@ -112,7 +111,4 @@ advising:    [Nightfall AI, EC-Council]
   <i>"The best security control is the one that runs by itself, every time, with an audit trail no one had to write."</i>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:8b5cf6&height=80&section=footer&_v=2" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:6d28d9&height=80&section=footer&_v=2" alt="footer" />
-</picture>
+<!-- Footer: capsule-render removed (animation dependency was breaking through GitHub's image proxy) -->
