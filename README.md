@@ -63,16 +63,16 @@ advising:    [Nightfall AI, EC-Council]
 
 ### What I write daily
 
-> Most of my code lives in private Parachute Health repos, so the public language widgets here only see a sliver. The detailed metrics image below is generated with an authorized token and reflects my actual stack.
+> Most of my code lives in private Parachute Health repos, so the public language widgets here only see a sliver. The detailed metrics image below is auto generated with GHA.
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,python,bash,linux,githubactions,git,vscode" />
 </p>
 
-**Infra & IaC** &nbsp;·&nbsp; AWS · Terragrunt · Terraform · EKS · Argo Workflows · GitHub Actions
+**Infra & IaC** &nbsp;·&nbsp; AWS and GCP · Terragrunt · Terraform · EKS · k8s · Argo CD and Workflows · GitHub Actions · Helm charts · n8n
 **Languages** &nbsp;·&nbsp; Python · Bash · YAML (a *lot* of YAML) · HCL · SQL
-**Security** &nbsp;·&nbsp; Lacework · Drata · Nightfall · CrowdStrike · Cisco ASA (VTI)
-**Data / ML** &nbsp;·&nbsp; PyTorch · scikit-learn · DuckDB · Datadog
+**Security** &nbsp;·&nbsp; Lacework · Drata · Nightfall · CrowdStrike · Cisco ASA (VTI) · Zscaler · Site Shield, WAF & BOT defender
+**Data / ML** &nbsp;·&nbsp; PyTorch · scikit-learn · DuckDB · Datadog · BigQuery
 **How I work** &nbsp;·&nbsp; IaC-first · Slack-native runbooks · paved-road platforms
 
 ---
@@ -90,7 +90,7 @@ advising:    [Nightfall AI, EC-Council]
   <img src="./github-metrics.svg?v=20" alt="Profile metrics — auto-updated daily, includes private/org repo activity" />
 </p>
 
-> _The image above is regenerated daily by a private workflow with an authorized token. It includes private and org repo activity, so it shows my real language breakdown and contribution calendar._
+> _The image above is regenerated daily by a private workflow
 
 ---
 
