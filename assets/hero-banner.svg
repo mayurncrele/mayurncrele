@@ -1,45 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mayur Rele">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Mayur Rele — profile card">
   <defs>
-    <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.5"/>
-    </pattern>
-    <linearGradient id="hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#1e1b4b"/>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
-    <linearGradient id="hero-name" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="initials-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d28d9"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="top-accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#06b6d4"/>
       <stop offset="50%" stop-color="#a78bfa"/>
       <stop offset="100%" stop-color="#ec4899"/>
     </linearGradient>
-    <filter id="hero-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="180" fill="url(#hero-bg)"/>
-  <rect width="900" height="180" fill="url(#hero-grid)" opacity="0.55"/>
+  <!-- Card background -->
+  <rect width="900" height="180" fill="url(#card-bg)"/>
 
-  <!-- Corner brackets: TL/BR cyan, TR/BL magenta -->
-  <g stroke-width="2.5" fill="none" filter="url(#hero-glow)">
-    <path d="M 25 25 L 75 25 M 25 25 L 25 75" stroke="#06b6d4"/>
-    <path d="M 875 25 L 825 25 M 875 25 L 875 75" stroke="#ec4899"/>
-    <path d="M 25 155 L 75 155 M 25 155 L 25 105" stroke="#ec4899"/>
-    <path d="M 875 155 L 825 155 M 875 155 L 875 105" stroke="#06b6d4"/>
+  <!-- Left section: gradient block with initials -->
+  <rect x="0" y="0" width="180" height="180" fill="url(#initials-bg)"/>
+  <text x="90" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="900" fill="#ffffff" letter-spacing="-4">MR</text>
+
+  <!-- Top accent strip on right portion -->
+  <rect x="180" y="0" width="720" height="2" fill="url(#top-accent)"/>
+
+  <!-- Vertical dividers -->
+  <line x1="180" y1="0" x2="180" y2="180" stroke="#1e293b" stroke-width="1"/>
+  <line x1="640" y1="22" x2="640" y2="158" stroke="#312e81" stroke-width="1"/>
+
+  <!-- Middle section: name + role -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="210" y="70" font-size="42" font-weight="800" fill="#ffffff" letter-spacing="-1">Mayur Rele</text>
+    <text x="210" y="98" font-size="14" font-weight="600" fill="#a78bfa" letter-spacing="0.3">Senior Director  ·  IT &amp; Information Security</text>
+    <text x="210" y="123" font-size="13" fill="#94a3b8">Parachute Health  ·  New Jersey / NYC</text>
+    <text x="210" y="152" font-size="11" fill="#64748b" font-family="'JetBrains Mono', 'Consolas', 'Menlo', 'Courier New', monospace" letter-spacing="1.5">$ secure_by_default  //  cloud_native  //  ai_first</text>
   </g>
 
-  <!-- Name -->
-  <text x="450" y="100" text-anchor="middle" font-family="'JetBrains Mono', 'Consolas', 'Menlo', 'Monaco', 'Courier New', monospace" font-size="68" font-weight="800" fill="url(#hero-name)" filter="url(#hero-glow)" letter-spacing="6">MAYUR RELE</text>
+  <!-- Right section: credential stack -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <!-- IEEE -->
+    <text x="665" y="48" font-size="11" font-weight="700" fill="#06b6d4" letter-spacing="2">★  IEEE</text>
+    <text x="665" y="64" font-size="10" fill="#cbd5e1">Senior Member</text>
 
-  <!-- Underline -->
-  <line x1="220" y1="120" x2="680" y2="120" stroke="#312e81" stroke-width="1"/>
+    <!-- Author -->
+    <text x="665" y="93" font-size="11" font-weight="700" fill="#a78bfa" letter-spacing="2">◆  AUTHOR</text>
+    <text x="665" y="109" font-size="10" fill="#cbd5e1">30+ Publications</text>
 
-  <!-- Subtitle -->
-  <text x="450" y="148" text-anchor="middle" font-family="'JetBrains Mono', 'Consolas', 'Menlo', 'Monaco', 'Courier New', monospace" font-size="13" fill="#94a3b8" letter-spacing="2.5">SENIOR DIRECTOR  ·  IT &amp; INFORMATION SECURITY  ·  PARACHUTE HEALTH</text>
+    <!-- Advisor -->
+    <text x="665" y="138" font-size="11" font-weight="700" fill="#ec4899" letter-spacing="2">▲  ADVISOR</text>
+    <text x="665" y="154" font-size="10" fill="#cbd5e1">Nightfall · EC-Council</text>
+  </g>
 </svg>
