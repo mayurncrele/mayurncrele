@@ -20,7 +20,6 @@
   <a href="https://www.linkedin.com/in/mayur-rele-97516868"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=SASM1f4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="http://mayurrele.io"><img src="https://img.shields.io/badge/mayurrele.io-111?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="mailto:mayurncrele@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=mayurncrele&style=for-the-badge&color=6d28d9&label=Profile+views" />
 </p>
 
@@ -62,26 +61,25 @@ advising:    [Nightfall AI, EC-Council]
 
 ---
 
-### Tech I reach for
+### What I write daily
+
+> Most of my code lives in private Parachute Health repos, so the public language widgets here only see a sliver. The detailed metrics image below is generated with an authorized token and reflects my actual stack.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,python,go,bash,linux,postgres,redis,grafana,github,githubactions,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,python,bash,linux,githubactions,git,vscode" />
 </p>
 
-**Platform** &nbsp;·&nbsp; AWS · EKS · Argo Workflows · Terragrunt · GitHub Actions
+**Infra & IaC** &nbsp;·&nbsp; AWS · Terragrunt · Terraform · EKS · Argo Workflows · GitHub Actions
+**Languages** &nbsp;·&nbsp; Python · Bash · YAML (a *lot* of YAML) · HCL · SQL
 **Security** &nbsp;·&nbsp; Lacework · Drata · Nightfall · CrowdStrike · Cisco ASA (VTI)
-**Data / ML** &nbsp;·&nbsp; Python · PyTorch · scikit-learn · DuckDB · Datadog
+**Data / ML** &nbsp;·&nbsp; PyTorch · scikit-learn · DuckDB · Datadog
 **How I work** &nbsp;·&nbsp; IaC-first · Slack-native runbooks · paved-road platforms
 
 ---
 
-### My GitHub Stats
+### GitHub activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayurncrele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c0a6ff&icon_color=c0a6ff&text_color=c9d1d9&ring_color=c0a6ff" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mayurncrele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=5b21b6&icon_color=5b21b6&text_color=24292e&ring_color=5b21b6" alt="GitHub stats" />
-  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mayurncrele&hide_border=true&background=0d1117&stroke=0d1117&ring=c0a6ff&fire=c0a6ff&currStreakLabel=c0a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
     <img height="180" src="https://streak-stats.demolab.com?user=mayurncrele&hide_border=true&background=ffffff&stroke=ffffff&ring=5b21b6&fire=5b21b6&currStreakLabel=5b21b6&sideLabels=24292e&currStreakNum=24292e&sideNums=24292e&dates=6a737d" alt="Contribution streak" />
@@ -89,56 +87,10 @@ advising:    [Nightfall AI, EC-Council]
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurncrele&layout=compact&hide_border=true&bg_color=0d1117&title_color=c0a6ff&text_color=c9d1d9&langs_count=8" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurncrele&layout=compact&hide_border=true&bg_color=ffffff&title_color=5b21b6&text_color=24292e&langs_count=8" alt="Top languages" />
-  </picture>
+  <img src="./github-metrics.svg?v=20" alt="Profile metrics — auto-updated daily, includes private/org repo activity" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mayurncrele&bg_color=0d1117&color=c0a6ff&line=c0a6ff&point=ffffff&area=true&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurncrele&bg_color=ffffff&color=5b21b6&line=5b21b6&point=5b21b6&area=true&hide_border=true" alt="Activity graph" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mayurncrele&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=mayurncrele&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-  </picture>
-</p>
-
----
-
-### 🐍 Watch the snake eat my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurncrele/mayurncrele/output/github-snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mayurncrele/mayurncrele/output/github-snake.svg" />
-</picture>
-
-> _Auto-generated daily — see `.github/workflows/snake.yml`._
-
----
-
-### 🎖️ Achievement badges
-
-Quirky badges, auto-mined from my commit history. Refreshed daily.
-
-<!-- my-badges start -->
-<!-- The my-badges workflow will overwrite this block. Run it once to populate. -->
-<!-- my-badges end -->
-
----
-
-<details>
-  <summary><b>📊 Detailed metrics (auto-updated daily by a private workflow)</b></summary>
-  <br/>
-  <p align="center">
-    <img src="./github-metrics.svg?v=19" alt="Profile metrics" />
-  </p>
-</details>
+> _The image above is regenerated daily by a private workflow with an authorized token. It includes private and org repo activity, so it shows my real language breakdown and contribution calendar._
 
 ---
 
